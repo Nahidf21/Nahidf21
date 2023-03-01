@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nahid Ferdous
 - 👀 I’m interested in data engineering 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python programming 
+- 🌱 I am currently studying Data science and searching for a new opportunity.
+- 💞️ I’m looking to collaborate on data science 
 - 📫 nahid.mferdous@gmail.com
 
 <!---
