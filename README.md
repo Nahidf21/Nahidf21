@@ -57,15 +57,15 @@ Integrated AWS services and BOTO3 with Python on Raspberry Pi 4.
 ## 💼 Work Experience
 
 ### 📚 Graduate Teaching Assistant
-*Texas Tech University (Jan 2024 – May 2024)*
+*Texas Tech University (Jan 2024 – May 2024)*  
 Guided undergraduates in database management concepts including ER modeling and data mining with MySQL.
 
 ### 💡 Data Analyst Intern
-*Cogent Infotech (May 2022 – Dec 2022)*
+*Cogent Infotech (May 2022 – Dec 2022)*  
 Cleaned and modeled data, applied machine learning libraries, created Tableau dashboards, and worked with SQL.
 
 ### 🌳 Research Associate and Technical Specialist
-*Daffodil International University (Dec 2017 – Dec 2020)*
+*Daffodil International University (Dec 2017 – Dec 2020)*  
 Analyzed drone data for forest insights and demonstrated strong problem-solving and leadership skills.
 
 ---
