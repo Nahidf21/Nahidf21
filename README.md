@@ -37,16 +37,16 @@ I am a meticulous and diligent Data Analysis Intern with over 4 years of experie
 
 ## 📂 Projects
 
-### 🎤 Voice-Based Customer Recommendation System
+### 🎤 [Voice-Based Customer Recommendation System](https://github.com/Nahidf21/Leveraging-Machine-Learning-for-Predictive-Analytics-in-Automotive-Sales)
 Developed using GPT-3.5 Turbo and Google Cloud API for feature extraction and classification analysis.
 
-### 🔍 Multivariate Data Analysis
+### 🔍 [Multivariate Data Analysis](https://github.com/Nahidf21/Unravelling-the-Complexities-of-Student-Stress-Factors)
 Cleaned data, reduced dimensionality with PCA, and performed clustering analysis using K-means and hierarchical clustering.
 
-### ⚽ Database for European Football Leagues
+### ⚽ [Database for European Football Leagues](https://github.com/Nahidf21/European-Football-Model-MySQL)
 Created using MySQL, focused on ER modeling and data normalization to 3NF.
 
-### 🍽️ Restaurant Reservation System
+### 🍽️ [Restaurant Reservation System](https://github.com/Nahidf21/Resturent-Reservation-System-/blob/main/Final%20-%2007-08%20.ipynb)
 Developed a system with features for table search, reservation, and user registration.
 
 ### 🚪 Face Recognition Door Lock System
@@ -56,15 +56,15 @@ Integrated AWS services and BOTO3 with Python on Raspberry Pi 4.
 
 ## 💼 Work Experience
 
-### 📚 Graduate Teaching Assistant
+### 📚 [Graduate Teaching Assistant](https://github.com/Nahidf21/Graduate-Teaching-Assistant-MySQL-Work-Solutions-At-Texas-Tech-University)
 *Texas Tech University (Jan 2024 – May 2024)*  
 Guided undergraduates in database management concepts including ER modeling and data mining with MySQL.
 
-### 💡 Data Analyst Intern
+### 💡 [Data Analyst Intern](https://github.com/Nahidf21/The-2018-Winter-Olympics-medal-prediction-for-the-host-country-/blob/main/Olympic_history_analysis.ipynb)
 *Cogent Infotech (May 2022 – Dec 2022)*  
 Cleaned and modeled data, applied machine learning libraries, created Tableau dashboards, and worked with SQL.
 
-### 🌳 Research Associate and Technical Specialist
+### 🌳 [Research Associate and Technical Specialist](https://sites.nationalacademies.org/PGA/PEER/PEERscience/PGA_181419)
 *Daffodil International University (Dec 2017 – Dec 2020)*  
 Analyzed drone data for forest insights and demonstrated strong problem-solving and leadership skills.
 
