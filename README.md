@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Nahid Ferdous
 
-**👀 I’m interested in data engineering and data science.**
+**👀 I’m interested in data analysis and data science.**
 
-**🌱 I am currently studying Data Science at Texas Tech University, graduating in May 2024, and I am actively seeking new opportunities in the field.**
+**🎓 I graduated with a Master's in Data Science from Texas Tech University in May 2024.**
 
 **💞️ I’m looking to collaborate on data science projects, particularly those involving machine learning, data analysis, and database management.**
 
@@ -16,71 +16,55 @@ I am a meticulous and diligent Data Analysis Intern with over 4 years of experie
 
 ---
 
-## 🎓 Education
+## 🚀 Core Competencies
 
-- **Master of Science in Data Science**  
-  *Texas Tech University, Lubbock, TX*  
-  GPA: 3.81 | May 2024  
-
-- **Post Bachelor of Science in Electrical and Computer Engineering**  
-  *Texas Southern University, Houston, TX*  
-  GPA: 3.97 | May 2022  
-
-- **Bachelor of Science in Electrical and Electronic Engineering**  
-  *Daffodil International University, Dhaka, Bangladesh*  
-  Nov 2017
-
----
-
-## 🛠️ Core Competencies
-
-- **Exploratory Data Analysis (EDA)**
-- **Feature Engineering**
-- **Multivariate Data Analysis**
-- **Machine Learning (Classification, Clustering, Dimensionality Reduction)**
-- **AWS, Google Cloud API**
-- **Data Visualization**
-- **Scrum**
+- 📊 **Exploratory Data Analysis (EDA)**
+- 🛠️ **Feature Engineering**
+- 📉 **Multivariate Data Analysis**
+- 🤖 **Machine Learning (Classification, Clustering, Dimensionality Reduction)**
+- ☁️ **AWS, Google Cloud API**
+- 📈 **Data Visualization**
+- 📅 **Scrum**
 
 ---
 
 ## 💻 Technical Skills
 
-- **Languages:** Python, R, SAS, MySQL, C++
-- **Tools:** Power BI, Arduino
+- 🐍 **Languages:** Python, R, SAS, MySQL, C++
+- 📊 **Tools:** Power BI, Arduino
 
 ---
 
 ## 📂 Projects
 
-### Voice-Based Customer Recommendation System
+### 🎤 Voice-Based Customer Recommendation System
 Developed using GPT-3.5 Turbo and Google Cloud API for feature extraction and classification analysis.
 
-### Multivariate Data Analysis
+### 🔍 Multivariate Data Analysis
 Cleaned data, reduced dimensionality with PCA, and performed clustering analysis using K-means and hierarchical clustering.
 
-### Database for European Football Leagues
+### ⚽ Database for European Football Leagues
 Created using MySQL, focused on ER modeling and data normalization to 3NF.
 
-### Restaurant Reservation System
+### 🍽️ Restaurant Reservation System
 Developed a system with features for table search, reservation, and user registration.
 
-### Face Recognition Door Lock System
+### 🚪 Face Recognition Door Lock System
 Integrated AWS services and BOTO3 with Python on Raspberry Pi 4.
 
 ---
 
 ## 💼 Work Experience
 
-### Graduate Teaching Assistant
+### 📚 Graduate Teaching Assistant
 *Texas Tech University (Jan 2024 – May 2024)*
 Guided undergraduates in database management concepts including ER modeling and data mining with MySQL.
 
-### Data Analyst Intern
+### 💡 Data Analyst Intern
 *Cogent Infotech (May 2022 – Dec 2022)*
 Cleaned and modeled data, applied machine learning libraries, created Tableau dashboards, and worked with SQL.
 
-### Research Associate and Technical Specialist
+### 🌳 Research Associate and Technical Specialist
 *Daffodil International University (Dec 2017 – Dec 2020)*
 Analyzed drone data for forest insights and demonstrated strong problem-solving and leadership skills.
 
