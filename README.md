@@ -34,6 +34,15 @@ I am a meticulous and diligent Data Analysis Intern with over 4 years of experie
 - 📊 **Tools:** Power BI, Arduino
 
 ---
+---
+## 📊 Programming Languages Used
+
+![Python](https://img.shields.io/badge/Python-60%25-blue)
+![R](https://img.shields.io/badge/R-20%25-blue)
+![MySQL](https://img.shields.io/badge/MySQL-10%25-blue)
+![C++](https://img.shields.io/badge/C++-5%25-blue)
+![SAS](https://img.shields.io/badge/SAS-5%25-blue)
+---
 
 ## 📂 Projects
 
@@ -77,3 +86,5 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nahidferdousua
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nahidf21&color=blue)
+
+
