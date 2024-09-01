@@ -21,10 +21,13 @@ I am a meticulous and diligent Data Analysis Intern with over 4 years of experie
 - 📊 **Exploratory Data Analysis (EDA)**
 - 🛠️ **Feature Engineering**
 - 📉 **Multivariate Data Analysis**
-- 🤖 **Machine Learning (Classification, Clustering, Dimensionality Reduction)**
+- 🤖 **Machine Learning )**
 - ☁️ **AWS, Google Cloud API**
 - 📈 **Data Visualization**
 - 📅 **Scrum**
+- 🤖 **Deep Learning**
+- ☁️ **web Scrapting - BeautifulSoup**
+- 🛠️ **OOP**
 
 ---
 
@@ -37,11 +40,11 @@ I am a meticulous and diligent Data Analysis Intern with over 4 years of experie
 ---
 ## 📊 Programming Languages Used
 
-![Python](https://img.shields.io/badge/Python-60%25-blue)
+![Python](https://img.shields.io/badge/Python-40%25-blue)
 ![R](https://img.shields.io/badge/R-20%25-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-10%25-blue)
 ![C++](https://img.shields.io/badge/C++-5%25-blue)
-![SAS](https://img.shields.io/badge/SAS-5%25-blue)
+![SAS](https://img.shields.io/badge/SAS-25%25-blue)
 ---
 
 ## 📂 Projects
