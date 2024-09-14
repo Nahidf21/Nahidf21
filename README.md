@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Nahid Ferdous
 
-**👀 I’m interested in data analysis and data science.**
+**👀 I am passionate about Python development, data analysis, machine learning, deep learning, and data science.**
 
 **🎓 I graduated with a Master's in Data Science from Texas Tech University in May 2024.**
 
-**💞️ I’m looking to collaborate on data science projects, particularly those involving machine learning, data analysis, and database management.**
+**💞️ I’m looking to collaborate on any data related projects, particularly those involving machine learning, deep learning, Extract Transform Load, data analysis, and database management.**
 
 **📫 Reach me at nahid.mferdous@gmail.com**
 
