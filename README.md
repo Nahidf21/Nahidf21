@@ -11,9 +11,7 @@
 ---
 
 ## 📝 About Me
-
-I am a meticulous and diligent Data Analysis Intern with over 4 years of experience in advanced technology research and implementation. My expertise spans database management, data visualization, feature engineering, and electronic engineering. I excel at exploratory data analysis and critical thinking, with proficiency in multiple programming languages.
-
+I am an expert in Python programming with a strong grasp of object-oriented principles (OOP) and have solid experience in SQL, R, and SAS. I have worked with web scraping using BeautifulSoup and completed deep learning and machine learning projects using TensorFlow. I possess a strong foundation in statistics and have extensive experience with relational databases. I am passionate about feature engineering, exploratory data analysis (EDA),multivariate data analysis, and data visualization.
 ---
 
 ## 🚀 Core Competencies
