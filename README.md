@@ -11,7 +11,7 @@
 ---
 
 ## 📝 About Me
-I am an expert in Python programming with a strong grasp of object-oriented principles (OOP) and have solid experience in SQL, R, and SAS. I have worked with web scraping using BeautifulSoup and completed deep learning and machine learning projects using TensorFlow. I possess a strong foundation in statistics and have extensive experience with relational databases. I am passionate about feature engineering, exploratory data analysis (EDA),multivariate data analysis, and data visualization.
+I am an expert in Python programming with a strong grasp of object-oriented principles (OOP) and have solid experience in SQL server, R, and SAS. I have worked with web scraping using BeautifulSoup and completed deep learning and machine learning projects using TensorFlow. I possess a strong foundation in statistics and have extensive experience with relational databases. I am passionate about feature engineering, exploratory data analysis (EDA),multivariate data analysis, and data visualization.
 ---
 
 ## 🚀 Core Competencies
