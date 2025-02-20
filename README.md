@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nahid Ferdous
 
-**👀 I am passionate about Python development, data analysis, machine learning, deep learning, and data science.**
+**👀 I am passionate about Python development, SQL SERVER, POWER BI, data analysis, machine learning, deep learning, and data science.**
 
 **🎓 I graduated with a Master's in Data Science from Texas Tech University in May 2024.**
 
@@ -39,10 +39,10 @@ I am an expert in Python programming with a strong grasp of object-oriented prin
 ## 📊 Programming Languages Used
 
 ![Python](https://img.shields.io/badge/Python-40%25-blue)
-![R](https://img.shields.io/badge/R-20%25-blue)
-![MySQL](https://img.shields.io/badge/MySQL-10%25-blue)
+![R](https://img.shields.io/badge/R-10%25-blue)
+![SQL SERVER ](https://img.shields.io/badge/SQL-40%25-blue)
 ![C++](https://img.shields.io/badge/C++-5%25-blue)
-![SAS](https://img.shields.io/badge/SAS-25%25-blue)
+![SAS](https://img.shields.io/badge/SAS-5%25-blue)
 ---
 
 ## 📂 Projects
